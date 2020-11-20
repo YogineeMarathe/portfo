@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/Bookname_ColorImages.pdf).
 
-##Errata
+## Errata
 page 9(Paragraph 1,line 4):  <img
 src="https://static.packt-cdn.com/products/9781788838986/cover/smaller" height="256px" align="center"> _should be_ <img
 src="https://static.packt-cdn.com/products/9781786460165/cover/smaller" height="256px" align="center">
