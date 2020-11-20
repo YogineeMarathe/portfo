@@ -47,6 +47,9 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/Bookname_ColorImages.pdf).
 
+##Errata
+page 9(Paragraph 1,line 4):Filename `python3.7` _should be_ `python3`
+
 ### Related products
 *  [[Packt]](https://www.packtpub.com/virtualization-and-cloud/mastering-windows-server-2019-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789804531)
 
