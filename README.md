@@ -44,7 +44,7 @@ The code will look like the following:
 **Following is what you need for this book:**
 This book is ideal for system administrators and solution architects who want to build highly available and flexible AWS Cloud platforms for their applications. Software engineers and programmers looking to deploy their applications to AWS Cloud will also find this book useful. Basic knowledge of Linux and AWS is necessary to get started.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
@@ -62,7 +62,7 @@ Click on the following link to see the Code in Action:
 
 [Placeholder link](www.youtube.com/URL)
 
-### Related products <Other books you may enjoy>
+### Related products <Other books you may enjoy>---Change names by looking into clubbed book--
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
