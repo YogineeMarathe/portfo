@@ -9,7 +9,7 @@ This is the code repository for [AWS for System Administrators](https://www.pack
 ## What is this book about?
 Amazon Web Services (AWS) is one of the most popular and efficient cloud platforms for administering and deploying your applications to make them resilient and robust. AWS for System Administrators will help you to learn several advanced cloud administration concepts for deploying, managing, and operating highly available systems on AWS.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Apply a security-first approach by giving minimum access to the user using IAM Policies
 * Build your first EC2 instance using the AWS CLI, Boto3, and Terraform
 * Set up your datacentre in AWS Cloud using VPC
@@ -21,7 +21,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders.
 
 The code will look like the following:
 ```
