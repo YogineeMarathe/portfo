@@ -63,7 +63,7 @@ Click on the following link to see the Code in Action:
 [Placeholder link](http://bit.ly/3ptc50K)
 
 ### Related products <Other books you may enjoy>
-* AWS Penetration Testing [[Packt]](https://www.packtpub.com/product/aws-penetration-testing?utm_source=github&utm_medium=repository&utm_campaign=9781839216923) [[Amazon]](https://www.amazon.com/dp/1839216921)
+* AWS Penetration Testing [[Packt]](https://www.packtpub.com/product/aws-penetration-testing/9781839216923?utm_source=github&utm_medium=repository&utm_campaign=9781839216923) [[Amazon]](https://www.amazon.com/dp/1839216921)
 
 * AWS Security Cookbook [[Packt]](https://www.packtpub.com/product/aws-security-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838826253) [[Amazon]](https://www.amazon.com/dp/1838826254)
 
