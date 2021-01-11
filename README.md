@@ -63,18 +63,13 @@ Click on the following link to see the Code in Action:
 [Placeholder link](http://bit.ly/3ptc50K)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* AWS Penetration Testing [[Packt]](https://www.packtpub.com/product/aws-penetration-testing?utm_source=github&utm_medium=repository&utm_campaign=9781839216923) [[Amazon]](https://www.amazon.com/dp/1839216921)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* AWS Security Cookbook [[Packt]](https://www.packtpub.com/product/aws-security-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781838826253) [[Amazon]](https://www.amazon.com/dp/1838826254)
 
 ## Get to Know the Author
 **Prashant Lakhera**
 is an RHCA (Red Hat Certified Architect) seasoned Linux and Open Source specialist with over 15+ years of enterprise open-source experience. Making a positive impact in the world is important to me; that’s why I share my knowledge with others through my website, blog post, and YouTube channel, which also helps me dig deep into a topic and expand my knowledge. In his daily job, he manages the team which is in charge of Large Scale AWS Deployment. The team manages, monitors, and upgrades the large fleet of AWS Servers. He also performed the large-scale migration of on-premise datacenter resources to AWS.
 
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
