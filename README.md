@@ -74,5 +74,4 @@ is a technologist and accomplished product leader with years of experience in th
 * [Kubernetes - A Complete DevOps Cookbook](https://www.packtpub.com/product/kubernetes-a-complete-devops-cookbook/9781838828042?utm_source=github&utm_medium=repository&utm_campaign=9781838828042)
 
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
