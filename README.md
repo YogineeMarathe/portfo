@@ -9,7 +9,7 @@ This is the code repository for [Kubernetes in Production Best Practices](https:
 ## What is this book about?
 Kubernetes in Production Best Practices is a blueprint and reference book for anyone who wants to leverage Kubernetes to manage their applications and services in production, following cloud industry standards, and applying best practices to achieve scaling, availability, operational excellence, and cost optimization.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Explore the different infrastructure architectures for Kubernetes deployment
 * Implement optimal open source and commercial storage management solutions
 * Discover best practices for provisioning and configuring Kubernetes clusters, such as infrastructure as code and CAC
