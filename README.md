@@ -60,17 +60,19 @@ Click on the following link to see the Code in Action:
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
+## Get to Know the Authors
+**Aly Saleh**
+is a versatile cloud architect with a proven track of delivering large scale cloud transformations, and enterprise distributed systems modernization. Aly gained software and systems engineering experience through his early working years in large enterprises as Vodafone and Oracle, where he built and rolled out systems and services that were used by millions of users. He has played a vital role in setting roadmaps and leading the cloud migrations and applications modernization for Aurea Software, Trilogy, Ceros, MarkUp, FreshBooks, and ESW Capital. Beside his applied work in cloud technologies and distributed systems, Aly is pursuing masters of data science in the University of Illinois Urbana-Champaign. He is an advocate for remote work and building global distributed engineering teams.
 
-**Author Name**
-Bio
+
+**Murat Karslioglu**
+is a technologist and accomplished product leader with years of experience in the Agile and DevOps methodologies. Murat is currently a VP of Product at MayaData, a start-up building a data agility platform for stateful applications, and a maintainer of open source projects, namely OpenEBS and Litmus. In his free time, Murat is busy writing practical articles about DevOps best practices, CI/CD, Kubernetes, and running stateful applications on popular Kubernetes platforms on his blog, Containerized Me. Murat also runs a cloud-native news curator site, The Containerized Today, where he regularly publishes updates on the Kubernetes ecosystem.
+
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Kubernetes - A Complete DevOps Cookbook](https://www.packtpub.com/product/kubernetes-a-complete-devops-cookbook/9781838828042?utm_source=github&utm_medium=repository&utm_campaign=9781838828042)
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
