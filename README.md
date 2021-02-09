@@ -41,8 +41,8 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 
 | Chapter  | Software required                                                                                  | OS required                        |
-| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------------|
-| 1        | Terraform, Ansible, python3, pip3, virtualenv, kubectl, kube-proxy, NGINX, Helm                    | Windows, Mac OS X, and Linux (Any) |
+| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------|
+| 1        | Terraform, Ansible, python3, pip3, virtualenv, kubectl, kube-proxy, NGINX, Helm                    | Windows, Mac OS X, and Linux(Any)|
 
 
 
@@ -56,9 +56,9 @@ Click on the following link to see the Code in Action:
 [Placeholder link](http://bit.ly/36JpElI)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* kubectl: Command-Line Kubernetes in a Nutshell [[Packt]](https://www.packtpub.com/product/kubectl-command-line-kubernetes-in-a-nutshell/9781800561878?utm_source=github&utm_medium=repository&utm_campaign=9781838828042#:~:text=About%20this%20book,with%20kubectl%20in%20no%20time.) [[Amazon]](https://www.amazon.com/dp/1800561873)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Kubernetes and Docker - An Enterprise Guide [[Packt]](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403?utm_source=github&utm_medium=repository&utm_campaign=9781839213403) [[Amazon]](https://www.amazon.com/dp/183921340X)
 
 ## Get to Know the Authors
 **Aly Saleh**
@@ -72,6 +72,4 @@ is a technologist and accomplished product leader with years of experience in th
 
 ## Other books by the authors
 * [Kubernetes - A Complete DevOps Cookbook](https://www.packtpub.com/product/kubernetes-a-complete-devops-cookbook/9781838828042?utm_source=github&utm_medium=repository&utm_campaign=9781838828042)
-
-
 
