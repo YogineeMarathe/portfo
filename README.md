@@ -47,8 +47,8 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781800202450_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [https://static.packt-cdn.com/
+downloads/9781800202450_ColorImages.pdf](Graphics Bundle Link).
 
 ## Code in Action
 
@@ -73,7 +73,5 @@ is a technologist and accomplished product leader with years of experience in th
 
 ## Other books by the authors
 * [Kubernetes - A Complete DevOps Cookbook](https://www.packtpub.com/product/kubernetes-a-complete-devops-cookbook/9781838828042?utm_source=github&utm_medium=repository&utm_campaign=9781838828042)
-
-
 
 
