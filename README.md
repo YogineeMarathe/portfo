@@ -41,8 +41,8 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 
 | Chapter  | Software required                                                                                  | OS required                        |
-| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------|
-| 1        | Terraform, Ansible, python3, pip3, virtualenv, kubectl, kube-proxy, NGINX, Helm                    | Windows, Mac OS X, and Linux(Any)|
+| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------------|
+| 1        | Terraform, Ansible, python3, pip3, virtualenv, kubectl, kube-proxy, NGINX, Helm                    | Windows, Mac OS X, and Linux (Any) |
 
 
 
