@@ -4,7 +4,7 @@
 
 This is the code repository for [Architecting Google Cloud Solutions](https://www.packtpub.com/product/architecting-cloud-computing-solutions/9781800563308?utm_source=github&utm_medium=repository&utm_campaign=9781800563308), published by Packt.
 
-**Subtitle from EPIC**
+**Architecting Google Cloud Solutions,published by Packt**
 
 ## What is this book about?
 First Paragraph from the Long Description
@@ -84,5 +84,3 @@ Bio
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
-
-
