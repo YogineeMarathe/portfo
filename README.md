@@ -1,22 +1,22 @@
-# Kubernetes in Production Best Practices
+# Architecting Google Cloud Solutions
 
-<a href="https://www.packtpub.com/cloud-networking/kubernetes-in-production-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781800202450"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781800202450-original_92.jpeg" alt="Kubernetes in Production Best Practices" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/architecting-cloud-computing-solutions/9781800563308?utm_source=github&utm_medium=repository&utm_campaign=9781800563308"><img src="https://static.packt-cdn.com/products/9781800563308/cover/smaller" alt="Architecting Google Cloud Solutions" height="256px" align="right"></a>
 
-This is the code repository for [Kubernetes in Production Best Practices](https://www.packtpub.com/cloud-networking/kubernetes-in-production-best-practices?utm_source=github&utm_medium=repository&utm_campaign=9781800202450), published by Packt.
+This is the code repository for [Architecting Google Cloud Solutions](https://www.packtpub.com/product/architecting-cloud-computing-solutions/9781800563308?utm_source=github&utm_medium=repository&utm_campaign=9781800563308), published by Packt.
 
-**Build and manage highly available production-ready Kubernetes clusters**
+**Subtitle from EPIC**
 
 ## What is this book about?
-Kubernetes in Production Best Practices is a blueprint and reference book for anyone who wants to leverage Kubernetes to manage their applications and services in production, following cloud industry standards, and applying best practices to achieve scaling, availability, operational excellence, and cost optimization.
+First Paragraph from the Long Description
 
-This book covers the following exciting features: 
-* Explore the different infrastructure architectures for Kubernetes deployment
-* Implement optimal open source and commercial storage management solutions
-* Discover best practices for provisioning and configuring Kubernetes clusters, such as infrastructure as code and CAC
-* Configure the cluster networking plugin and other core networking components and learn how to get the best out of them
-* Apply the latest industry tools and best practices to secure your Kubernetes environment
+This book covers the following exciting features: <First 5 What you'll learn points>
+* Learn how to manage users, groups, and permissions
+* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
+* Setup SSH for remote access, and connect it to other nodes
+* Understand how to add, remove, and search for packages
+* Use NFS and Samba to share directories with other users
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800202458) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
@@ -25,52 +25,64 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-html, body, #map {
- height: 100%; 
- margin: 0;
- padding: 0
+if (test expression)
+{
+  Statement upon condition is true
 }
-
 ```
 
 **Following is what you need for this book:**
-This book is for cloud infrastructure experts, DevOps engineers, site reliability engineers, and engineering managers looking to design and operate Kubernetes infrastructure for production. Basic knowledge of Kubernetes, Terraform, Ansible, Linux, and AWS is needed to get the most out of this book.
+Copy and paste the Audience section from the EPIC.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
 ### Software and Hardware List
 
-| Chapter  | Software required                                                                                  | OS required                        |
-| -------- | ---------------------------------------------------------------------------------------------------| -----------------------------------|
-| 1        | Terraform, Ansible, python3, pip3, virtualenv, kubectl, kube-proxy, NGINX, Helm                    | Windows, Mac OS X, and Linux (Any) |
+| Chapter  | Software required                   | OS required                        |
+| -------- | ------------------------------------| -----------------------------------|
+| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
+| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+|11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 
 
-
-
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800202450_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
 ## Code in Action
 
 Click on the following link to see the Code in Action:
 
-[Placeholder link](http://bit.ly/36JpElI)
+[Placeholder link](www.youtube.com/URL)
 
 ### Related products <Other books you may enjoy>
-* kubectl: Command-Line Kubernetes in a Nutshell [[Packt]](https://www.packtpub.com/product/kubectl-command-line-kubernetes-in-a-nutshell/9781800561878?utm_source=github&utm_medium=repository&utm_campaign=9781838828042#:~:text=About%20this%20book,with%20kubectl%20in%20no%20time.) [[Amazon]](https://www.amazon.com/dp/1800561873)
+* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-* Kubernetes and Docker - An Enterprise Guide [[Packt]](https://www.packtpub.com/product/kubernetes-and-docker-an-enterprise-guide/9781839213403?utm_source=github&utm_medium=repository&utm_campaign=9781839213403) [[Amazon]](https://www.amazon.com/dp/183921340X)
+* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Authors
-**Aly Saleh**
-is a versatile cloud architect with a proven track of delivering large scale cloud transformations, and enterprise distributed systems modernization. Aly gained software and systems engineering experience through his early working years in large enterprises as Vodafone and Oracle, where he built and rolled out systems and services that were used by millions of users. He has played a vital role in setting roadmaps and leading the cloud migrations and applications modernization for Aurea Software, Trilogy, Ceros, MarkUp, FreshBooks, and ESW Capital. Beside his applied work in cloud technologies and distributed systems, Aly is pursuing masters of data science in the University of Illinois Urbana-Champaign. He is an advocate for remote work and building global distributed engineering teams.
+## Get to Know the Author(s)
+**Author Name**
+Bio
 
-
-**Murat Karslioglu**
-is a technologist and accomplished product leader with years of experience in the Agile and DevOps methodologies. Murat is currently a VP of Product at MayaData, a start-up building a data agility platform for stateful applications, and a maintainer of open source projects, namely OpenEBS and Litmus. In his free time, Murat is busy writing practical articles about DevOps best practices, CI/CD, Kubernetes, and running stateful applications on popular Kubernetes platforms on his blog, Containerized Me. Murat also runs a cloud-native news curator site, The Containerized Today, where he regularly publishes updates on the Kubernetes ecosystem.
-
+**Author Name**
+Bio
 
 
 ## Other books by the authors
-* [Kubernetes - A Complete DevOps Cookbook](https://www.packtpub.com/product/kubernetes-a-complete-devops-cookbook/9781838828042?utm_source=github&utm_medium=repository&utm_campaign=9781838828042)
+* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
+* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+
+### Suggestions and Feedback
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
 
 
