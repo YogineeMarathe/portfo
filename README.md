@@ -7,28 +7,29 @@ This is the code repository for [Architecting Google Cloud Solutions](https://ww
 **Architecting Google Cloud Solutions,published by Packt**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Google has been one of the top players in the public cloud domain thanks to its agility and performance capabilities. This book will help you design, develop, and manage robust, secure, and dynamic solutions to successfully meet your business needs.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features: 
+* Get to grips with compute, storage, networking, data analytics, and pricing
+* Discover delivery models such as IaaS, PaaS, and SaaS
+* Explore the underlying technologies and economics of cloud computing
+* Design for scalability, business continuity, observability, and resiliency
+* Secure Google Cloud solutions and ensure compliance
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800563302) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders. 
 
 The code will look like the following:
 ```
-if (test expression)
-{
-  Statement upon condition is true
-}
+apiVersion: v1
+kind: Service
+metadata:
+  name: dinner-recommendation-service
+
 ```
 
 **Following is what you need for this book:**
