@@ -58,17 +58,9 @@ Click on the following link to see the Code in Action:
 
 * Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-## Get to Know the Author(s)
-**Author Name**
-Bio
-
-**Author Name**
-Bio
-
-
-## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+## Get to Know the Author
+**Victor Dantas**
+Victor has a PhD in Software-Defined Networking and Cloud systems and is a Google Cloud Certified Cloud Architect. With a background ranging from software development and systems engineering to customer-facing consulting on Cloud architecture and migrations, he has accumulated experience in Hybrid cloud infrastructure, cloud solutions architecture, and Agile/DevOps practices working with Fortune 500 companies. His current interests include Big Data, AI / Machine Learning and Internet-of-Things (IoT).
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
