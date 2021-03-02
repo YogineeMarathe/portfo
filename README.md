@@ -62,5 +62,3 @@ Click on the following link to see the Code in Action:
 **Victor Dantas**
 Victor has a PhD in Software-Defined Networking and Cloud systems and is a Google Cloud Certified Cloud Architect. With a background ranging from software development and systems engineering to customer-facing consulting on Cloud architecture and migrations, he has accumulated experience in Hybrid cloud infrastructure, cloud solutions architecture, and Agile/DevOps practices working with Fortune 500 companies. His current interests include Big Data, AI / Machine Learning and Internet-of-Things (IoT).
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
