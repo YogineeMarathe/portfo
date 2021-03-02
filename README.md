@@ -33,29 +33,16 @@ metadata:
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
+This book is for cloud architects who are responsible for designing and managing cloud solutions with GCP. You'll also find the book useful if you're a system engineer or enterprise architect looking to learn how to design solutions with Google Cloud. Moreover, cloud architects who already have experience with other cloud providers and are now beginning to work with Google Cloud will benefit from the book. Although an intermediate-level understanding of cloud computing and distributed apps is required, prior experience of working in the public and hybrid cloud domain is not mandatory.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-|11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| Chapter    | Software required                                                                                                                                                                  | OS required                        |
+| ---------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -----------------------------------|
+| 1-12       | Any of the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge, Microsoft Internet Explorer 11+ and Apple Safari 8+. Safari in private browser mode is not supported.| Windows, Mac OS X, and Linux (Any) |                                   |
+
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
