@@ -51,7 +51,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 Click on the following link to see the Code in Action:
 
-[Placeholder link](www.youtube.com/URL)
+[Placeholder link](http://bit.ly/3sMclcX)
 
 ### Related products <Other books you may enjoy>
 * Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
@@ -61,4 +61,5 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Victor Dantas**
 Victor has a PhD in Software-Defined Networking and Cloud systems and is a Google Cloud Certified Cloud Architect. With a background ranging from software development and systems engineering to customer-facing consulting on Cloud architecture and migrations, he has accumulated experience in Hybrid cloud infrastructure, cloud solutions architecture, and Agile/DevOps practices working with Fortune 500 companies. His current interests include Big Data, AI / Machine Learning and Internet-of-Things (IoT).
+
 
