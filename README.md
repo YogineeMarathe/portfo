@@ -41,7 +41,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter    | Software required                                                                                                                                                                  | OS required                        |
 | ---------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -----------------------------------|
-| 1-12       | Any of the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge, Microsoft Internet Explorer 11+ and Apple Safari 8+. Safari in private browser mode is not supported.| Windows, Mac OS X, and Linux (Any) |                                   |
+| 1-12       | Any of the latest versions of Google Chrome, Mozilla Firefox, Microsoft Edge, Microsoft Internet Explorer 11+ and Apple Safari 8+. Safari in private browser mode is not supported.| Windows, Mac OS, and Linux (Any)   |                                   
 
 
 
@@ -61,5 +61,4 @@ Click on the following link to see the Code in Action:
 ## Get to Know the Author
 **Victor Dantas**
 Victor has a PhD in Software-Defined Networking and Cloud systems and is a Google Cloud Certified Cloud Architect. With a background ranging from software development and systems engineering to customer-facing consulting on Cloud architecture and migrations, he has accumulated experience in Hybrid cloud infrastructure, cloud solutions architecture, and Agile/DevOps practices working with Fortune 500 companies. His current interests include Big Data, AI / Machine Learning and Internet-of-Things (IoT).
-
 
