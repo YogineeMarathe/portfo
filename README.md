@@ -54,9 +54,9 @@ Click on the following link to see the Code in Action:
 [Placeholder link](http://bit.ly/3sMclcX)
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Google Cloud Platform for Developers [[Packt]](https://www.packtpub.com/product/google-cloud-platform-for-developers/9781788837675?utm_source=github&utm_medium=repository&utm_campaign=9781788837675) [[Amazon]](https://www.amazon.com/dp/1788837673)
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Multi-Cloud Architecture and Governance [[Packt]](https://www.packtpub.com/product/multi-cloud-architecture-and-governance/9781800203198?utm_source=github&utm_medium=repository&utm_campaign=9781800203198) [[Amazon]](https://www.amazon.com/dp/1800203195)
 
 ## Get to Know the Author
 **Victor Dantas**
